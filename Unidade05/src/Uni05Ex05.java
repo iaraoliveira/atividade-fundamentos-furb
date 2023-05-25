@@ -29,5 +29,7 @@ public class Uni05Ex05 {
         }
 
         System.out.println(Arrays.toString(sequencia));
+        teclado.close();
+
     }
 }

@@ -17,5 +17,7 @@ public class Uni05Ex06 {
         double media = soma / 20;
         System.out.println(df_2.format(media));
 
+        teclado.close();
+
     }
 }
