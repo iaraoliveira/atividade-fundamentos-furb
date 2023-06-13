@@ -1,4 +1,5 @@
 import java.text.DecimalFormat;
+import java.util.Scanner;
 
 public class BC1174 {
     public static void main(String[] args) {
@@ -8,7 +9,6 @@ public class BC1174 {
         double A[] = new double[100];
 
         for (int i = 0; i < A.length; i++) {
-            djainajfna.;
         }
 
         for (int i = 0; i < A.length; i++) {
